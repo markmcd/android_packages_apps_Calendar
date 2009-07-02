@@ -15,190 +15,110 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- no translation found for app_label (5452708708398908131) -->
-    <skip />
-    <!-- no translation found for calendar_plug (8148614847911924208) -->
-    <skip />
-    <!-- no translation found for what_label (1933578391985810049) -->
-    <skip />
-    <!-- no translation found for when_label (894636567327261599) -->
-    <skip />
-    <!-- no translation found for where_label (3472482206065595118) -->
-    <skip />
-    <!-- no translation found for repeats_label (7414023871434593196) -->
-    <skip />
-    <!-- no translation found for no_title_label (7352118984125107858) -->
-    <skip />
-    <!-- no translation found for Nminutes:one (4871052965772159239) -->
-    <!-- no translation found for Nminutes:other (5644461630927544936) -->
-    <!-- no translation found for Nmins:one (9191090668359663663) -->
-    <!-- no translation found for Nmins:other (9175648445939148974) -->
-    <!-- no translation found for Nhours:one (4793697728599296830) -->
-    <!-- no translation found for Nhours:other (4477841052001760620) -->
-    <!-- no translation found for Ndays:one (5988137255732166573) -->
-    <!-- no translation found for Ndays:other (1709378992389618261) -->
+    <string name="app_label">"Takvim"</string>
+    <string name="calendar_plug"><font fgcolor="#ffffffff">"Google Takvim\'e hoş geldiniz!"</font>" "\n"Programlı etkinliklerin daha fark edilir, daha etkin ve daha erişilebilir olabilmesi fikri üzerine inşa edilen, programınızı yönetmeniz için geliştirilmiş bir Google yaklaşımıdır."</string>
+    <string name="what_label">"Başlık:"</string>
+    <string name="when_label">"Zaman:"</string>
+    <string name="where_label">"Yer"</string>
+    <string name="repeats_label">"Tekrar"</string>
+    <string name="no_title_label">"(Konu yok)"</string>
+  <plurals name="Nminutes">
+    <item quantity="one">"1 dakika"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> dakika"</item>
+  </plurals>
+  <plurals name="Nmins">
+    <item quantity="one">"1 dak"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> dak"</item>
+  </plurals>
+  <plurals name="Nhours">
+    <item quantity="one">"1 saat"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> saat"</item>
+  </plurals>
+  <plurals name="Ndays">
+    <item quantity="one">"1 gün"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> gün"</item>
+  </plurals>
     <string name="show_agenda_view">"Ajandayı göster"</string>
     <string name="show_day_view">"Günü göster"</string>
-    <!-- no translation found for agenda_view (5566084759423843245) -->
-    <skip />
-    <!-- no translation found for day_view (4467754504843584437) -->
-    <skip />
-    <!-- no translation found for week_view (6775043022159508060) -->
-    <skip />
-    <!-- no translation found for month_view (7287101431749285412) -->
-    <skip />
-    <!-- no translation found for event_view (7621353079385122317) -->
-    <skip />
-    <!-- no translation found for event_create (6941040556709110617) -->
-    <skip />
-    <!-- no translation found for event_edit (4006961928830064662) -->
-    <skip />
-    <!-- no translation found for event_delete (2386667193277770442) -->
-    <skip />
-    <!-- no translation found for goto_today (9162136434410891230) -->
-    <skip />
-    <!-- no translation found for menu_select_calendars (6610470242968973936) -->
-    <skip />
-    <!-- no translation found for menu_preferences (9120238479503233925) -->
-    <skip />
-    <!-- no translation found for plus_N_more (2527895721728080055) -->
-    <skip />
-    <!-- no translation found for calendars_title (4457305218812126946) -->
-    <skip />
-    <!-- no translation found for add_calendars (1013326491414656517) -->
-    <skip />
-    <!-- no translation found for remove_calendars (1395151808187126222) -->
-    <skip />
-    <!-- no translation found for event_edit_title (8487120407086532444) -->
-    <skip />
-    <!-- no translation found for hint_what (709155115005044531) -->
-    <skip />
-    <!-- no translation found for hint_where (3116239630502213241) -->
-    <skip />
-    <!-- no translation found for hint_description (4198202812240544553) -->
-    <skip />
-    <!-- no translation found for creating_event (8237877638457604455) -->
-    <skip />
-    <!-- no translation found for saving_event (8853425146353785688) -->
-    <skip />
-    <!-- no translation found for loading_calendars_title (3819254313413902272) -->
-    <skip />
-    <!-- no translation found for loading_calendars_message (8266077515011438420) -->
-    <skip />
-    <!-- no translation found for alert_title (7869592820853066853) -->
-    <skip />
-    <!-- no translation found for alert_when_label (106946701143025116) -->
-    <skip />
-    <!-- no translation found for alert_where_label (4255965543493921820) -->
-    <skip />
-    <!-- no translation found for alert_missed_events_single (8042891195314876684) -->
-    <skip />
-    <!-- no translation found for alert_missed_events_multiple (8499734506511653919) -->
-    <skip />
-    <!-- no translation found for event_info_title (56024222340421620) -->
-    <skip />
-    <!-- no translation found for event_info_title_invite (9160326363769403865) -->
-    <skip />
-    <!-- no translation found for add_new_reminder (4171314793889890481) -->
-    <skip />
-    <!-- no translation found for edit_event_to_label (795012981218062421) -->
-    <skip />
-    <!-- no translation found for edit_event_from_label (174999102612666115) -->
-    <skip />
-    <!-- no translation found for edit_event_all_day_label (6200181113992136073) -->
-    <skip />
-    <!-- no translation found for edit_event_calendar_label (4556498359505856900) -->
-    <skip />
-    <!-- no translation found for edit_event_show_extra_options (2325854287823989650) -->
-    <skip />
-    <!-- no translation found for edit_event_hide_extra_options (4019082307326855513) -->
-    <skip />
-    <!-- no translation found for description_label (7193475046717505855) -->
-    <skip />
-    <!-- no translation found for presence_label (2155381988163502023) -->
-    <skip />
-    <!-- no translation found for privacy_label (9215031965259597335) -->
-    <skip />
-    <!-- no translation found for reminders_label (8345054160145333166) -->
-    <skip />
-    <!-- no translation found for no_syncable_calendars (7019488867045436129) -->
-    <skip />
-    <!-- no translation found for no_calendars_found (755379468136462058) -->
-    <skip />
-    <!-- no translation found for view_event_calendar_label (8503354404461986250) -->
-    <skip />
-    <!-- no translation found for view_event_timezone_label (6461351857281070935) -->
-    <skip />
-    <!-- no translation found for view_event_response_label (8382281658458798329) -->
-    <skip />
-    <!-- no translation found for agenda_today (2405333795044229594) -->
-    <skip />
-    <!-- no translation found for num_events (3351672964607162257) -->
-    <skip />
-    <!-- no translation found for edit_event_label (2900418236819088363) -->
-    <skip />
-    <!-- no translation found for delete_label (874742811918030739) -->
-    <skip />
-    <!-- no translation found for delete_event_label (3738436215987360463) -->
-    <skip />
-    <!-- no translation found for save_label (8877256171454939862) -->
-    <skip />
-    <!-- no translation found for discard_label (6121370942133492815) -->
-    <skip />
-    <!-- no translation found for import_label (6993796574741477222) -->
-    <skip />
-    <!-- no translation found for snooze_all_label (4994488813124409077) -->
-    <skip />
-    <!-- no translation found for dismiss_all_label (1834400025868091301) -->
-    <skip />
-    <!-- no translation found for does_not_repeat (1877681921029738999) -->
-    <skip />
-    <!-- no translation found for daily (560350706808680448) -->
-    <skip />
-    <!-- no translation found for every_weekday (5896574838353902978) -->
-    <skip />
-    <!-- no translation found for weekly (2006107373119027114) -->
-    <skip />
-    <!-- no translation found for monthly_on_day_count (6847991854413461795) -->
-    <skip />
-    <!-- no translation found for monthly_on_day (5370155265278821156) -->
-    <skip />
-    <!-- no translation found for yearly (8576208380302949002) -->
-    <skip />
-    <!-- no translation found for custom (3015205670911301856) -->
-    <skip />
-    <!-- no translation found for modify_event (4501745557655992422) -->
-    <skip />
-    <!-- no translation found for modify_all (7506579040966638538) -->
-    <skip />
-    <!-- no translation found for modify_all_following (4333745734894639276) -->
-    <skip />
-    <!-- no translation found for delete_this_event_title (8738491083082780492) -->
-    <skip />
-    <!-- no translation found for delete_title (5143743507524995383) -->
-    <skip />
-    <!-- no translation found for change_response_title (7704714776070974984) -->
-    <skip />
-    <!-- no translation found for preferences_title (8045855493262131773) -->
-    <skip />
-    <!-- no translation found for preferences_general_title (2069075513760573117) -->
-    <skip />
-    <!-- no translation found for preferences_alerts_title (6511227171114210908) -->
-    <skip />
-    <!-- no translation found for preferences_hide_declined_title (1849295943669890034) -->
-    <skip />
-    <!-- no translation found for preferences_alerts_type_title (6934441966757833908) -->
-    <skip />
-    <!-- no translation found for preferences_alerts_type_dialog (2195667763429994271) -->
-    <skip />
-    <!-- no translation found for preferences_alerts_vibrate_title (7997122314759645350) -->
-    <skip />
-    <!-- no translation found for preferences_alerts_ringtone_title (7565118268120729644) -->
-    <skip />
-    <!-- no translation found for preferences_default_reminder_title (103964814265989503) -->
-    <skip />
-    <!-- no translation found for preferences_default_reminder_dialog (2490348857239323412) -->
-    <skip />
-    <!-- no translation found for preferences_default_reminder_default (2903884416749959435) -->
-    <skip />
+    <string name="agenda_view">"Ajanda"</string>
+    <string name="day_view">"Gün"</string>
+    <string name="week_view">"Hafta"</string>
+    <string name="month_view">"Ay"</string>
+    <string name="event_view">"Etkinliği görüntüle"</string>
+    <string name="event_create">"Yeni etkinlik"</string>
+    <string name="event_edit">"Etkinliği düzenle"</string>
+    <string name="event_delete">"Etkinliği sil"</string>
+    <string name="goto_today">"Bugün"</string>
+    <string name="menu_select_calendars">"Takvimlerim"</string>
+    <string name="menu_preferences">"Ayarlar"</string>
+    <string name="plus_N_more">"(artı <xliff:g id="MORE_COUNT">%d</xliff:g> tane daha …)"</string>
+    <string name="calendars_title">"Takvimlerim"</string>
+    <string name="add_calendars">"Takvim ekle"</string>
+    <string name="remove_calendars">"Takvimleri kaldır"</string>
+    <string name="event_edit_title">"Etkinlik ayrıntıları"</string>
+    <string name="hint_what">"Etkinlik adı"</string>
+    <string name="hint_where">"Etkinlik konumu"</string>
+    <string name="hint_description">"Etkinlik açıklaması"</string>
+    <string name="creating_event">"Etkinlik oluşturuluyor..."</string>
+    <string name="saving_event">"Etkinlik kaydediliyor..."</string>
+    <string name="loading_calendars_title">"Takvimler yükleniyor"</string>
+    <string name="loading_calendars_message">"Takvimler yükleniyor..."</string>
+    <string name="alert_title">"Takvim bildirimleri"</string>
+    <string name="alert_when_label">"Zaman:"</string>
+    <string name="alert_where_label">"Yer:"</string>
+    <string name="alert_missed_events_single">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> hatırlatıcı daha)"</string>
+    <string name="alert_missed_events_multiple">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> hatırlatıcı daha)"</string>
+    <string name="event_info_title">"Etkinliği görüntüle"</string>
+    <string name="event_info_title_invite">"Toplantı davetiyesi"</string>
+    <string name="add_new_reminder">"Hatırlatıcı ekle"</string>
+    <string name="edit_event_to_label">"Bitiş:"</string>
+    <string name="edit_event_from_label">"Başlangıç:"</string>
+    <string name="edit_event_all_day_label">"Tüm gün"</string>
+    <string name="edit_event_calendar_label">"Takvim"</string>
+    <string name="edit_event_show_extra_options">"Ek seçenekleri göster"</string>
+    <string name="edit_event_hide_extra_options">"Ek seçenekleri gizle"</string>
+    <string name="description_label">"Açıklama"</string>
+    <string name="presence_label">"Mevcudiyet"</string>
+    <string name="privacy_label">"Gizlilik"</string>
+    <string name="reminders_label">"Hatırlatıcılar"</string>
+    <string name="no_syncable_calendars">"Takvim yok"</string>
+    <string name="no_calendars_found">"Hiç takviminiz yok."</string>
+    <string name="view_event_calendar_label">"Takvim"</string>
+    <string name="view_event_timezone_label">"Yerel saat dilimi"</string>
+    <string name="view_event_response_label">"Katılıyor musunuz?"</string>
+    <string name="agenda_today">"Bugün"</string>
+    <string name="num_events">"Etkinlik sayısı"</string>
+    <string name="edit_event_label">"Etkinliği düzenle"</string>
+    <string name="delete_label">"Sil"</string>
+    <string name="delete_event_label">"Etkinliği sil"</string>
+    <string name="save_label">"Kaydet"</string>
+    <string name="discard_label">"Değişiklikleri sil"</string>
+    <string name="import_label">"İçe aktar"</string>
+    <string name="snooze_all_label">"Tümünü duraklat"</string>
+    <string name="dismiss_all_label">"Tümünü kapat"</string>
+    <string name="does_not_repeat">"Bir seferlik etkinlik"</string>
+    <string name="daily">"Günlük"</string>
+    <string name="every_weekday">"Hafta içi her gün (Pzt-Cu)"</string>
+    <string name="weekly">"Haftalık (her <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Aylık (her <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly_on_day">"Aylık (<xliff:g id="DAY_OF_MONTH">%s</xliff:g>. günde)"</string>
+    <string name="yearly">"Yıllık (<xliff:g id="DATES">%s</xliff:g> tarihinde)"</string>
+    <string name="custom">"Özel... (telefonda özelleştirilemiyor)"</string>
+    <string name="modify_event">"Yalnızca bu etkinliği değiştir."</string>
+    <string name="modify_all">"Serideki tüm etkinlikleri değiştir."</string>
+    <string name="modify_all_following">"Bunu ve gelecekteki tüm etkinlikleri değiştir."</string>
+    <string name="delete_this_event_title">"Bu etkinlik silinecek."</string>
+    <string name="delete_title">"Sil"</string>
+    <string name="change_response_title">"Yanıtı değiştir"</string>
+    <string name="preferences_title">"Ayarlar"</string>
+    <string name="preferences_general_title">"Takvim görünümü ayarı"</string>
+    <string name="preferences_alerts_title">"Hatırlatıcı ayarları"</string>
+    <string name="preferences_hide_declined_title">"Reddedilmiş etkinlikleri gizle"</string>
+    <string name="preferences_alerts_type_title">"Uyarıları ve bildirimleri ayarla"</string>
+    <string name="preferences_alerts_type_dialog">"Uyarılar ve bildirimler"</string>
+    <string name="preferences_alerts_vibrate_title">"Titret"</string>
+    <string name="preferences_alerts_ringtone_title">"Zil sesini seç"</string>
+    <string name="preferences_default_reminder_title">"Varsayılan hatırlatıcıyı ayarla"</string>
+    <string name="preferences_default_reminder_dialog">"Varsayılan hatırlatıcı süresi"</string>
+    <string name="preferences_default_reminder_default">"10"</string>
 </resources>
