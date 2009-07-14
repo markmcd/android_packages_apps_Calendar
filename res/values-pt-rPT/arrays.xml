@@ -50,7 +50,7 @@
   </string-array>
   <string-array name="preferences_alert_type_labels">
     <item>"Alerta"</item>
-    <item>"Notificação de barra de estado"</item>
+    <item>"Notificação na barra de estado"</item>
     <item>"Desactivado"</item>
   </string-array>
   <string-array name="availability">
@@ -72,10 +72,10 @@
     <item>"Sábado"</item>
   </string-array>
   <string-array name="ordinal_labels">
-    <item>"primeiro"</item>
-    <item>"segundo"</item>
-    <item>"terceiro"</item>
-    <item>"quarto"</item>
+    <item>"primeiro/a"</item>
+    <item>"segundo/a"</item>
+    <item>"terceiro/a"</item>
+    <item>"quarto/a"</item>
     <item>"último"</item>
   </string-array>
   <string-array name="response_labels1">

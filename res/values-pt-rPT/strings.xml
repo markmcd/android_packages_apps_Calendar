@@ -100,7 +100,7 @@
     <string name="daily">"Diariamente"</string>
     <string name="every_weekday">"Todos os dias úteis (Seg-Sex)"</string>
     <string name="weekly">"Semanalmente (a cada <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
-    <string name="monthly_on_day_count">"Mensalmente (a cada <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g><xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Mensalmente (a cada <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
     <string name="monthly_on_day">"Mensalmente (no dia <xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
     <string name="yearly">"Anualmente (em <xliff:g id="DATES">%s</xliff:g>)"</string>
     <string name="custom">"Personalizado... (não é possível personalizar no telefone)"</string>
@@ -111,7 +111,7 @@
     <string name="delete_title">"Eliminar"</string>
     <string name="change_response_title">"Alterar resposta"</string>
     <string name="preferences_title">"Definições"</string>
-    <string name="preferences_general_title">"Definição de vista de calendário"</string>
+    <string name="preferences_general_title">"Definição da vista de calendário"</string>
     <string name="preferences_alerts_title">"Definições de lembrete"</string>
     <string name="preferences_hide_declined_title">"Ocultar eventos recusados"</string>
     <string name="preferences_alerts_type_title">"Definir alertas e notificações"</string>
