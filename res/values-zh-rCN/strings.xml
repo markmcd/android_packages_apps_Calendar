@@ -83,7 +83,7 @@
     <string name="reminders_label">"提醒"</string>
     <string name="no_syncable_calendars">"无日历"</string>
     <string name="no_calendars_found">"您没有日历。"</string>
-    <string name="view_event_calendar_label">"日历"</string>
+    <string name="view_event_calendar_label">"日历帐户"</string>
     <string name="view_event_timezone_label">"本地时区"</string>
     <string name="view_event_response_label">"参加吗？"</string>
     <string name="agenda_today">"今天"</string>
@@ -102,7 +102,7 @@
     <string name="weekly">"每周（每个<xliff:g id="DAYS_OF_WEEK">%s</xliff:g>）"</string>
     <string name="monthly_on_day_count">"每月（每月的<xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g><xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>）"</string>
     <string name="monthly_on_day">"每月（第 <xliff:g id="DAY_OF_MONTH">%s</xliff:g> 日）"</string>
-    <string name="yearly">"每年（在<xliff:g id="DATES">%s</xliff:g>）"</string>
+    <string name="yearly">"每年（<xliff:g id="DATES">%s</xliff:g>）"</string>
     <string name="custom">"自定义...（无法在手机上自定义）"</string>
     <string name="modify_event">"仅更改此活动。"</string>
     <string name="modify_all">"更改系列中的所有活动。"</string>

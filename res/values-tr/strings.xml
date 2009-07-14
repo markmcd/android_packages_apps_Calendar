@@ -99,10 +99,10 @@
     <string name="does_not_repeat">"Bir seferlik etkinlik"</string>
     <string name="daily">"Günlük"</string>
     <string name="every_weekday">"Hafta içi her gün (Pzt-Cu)"</string>
-    <string name="weekly">"Haftalık (her <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
-    <string name="monthly_on_day_count">"Aylık (her <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
-    <string name="monthly_on_day">"Aylık (<xliff:g id="DAY_OF_MONTH">%s</xliff:g>. günde)"</string>
-    <string name="yearly">"Yıllık (<xliff:g id="DATES">%s</xliff:g> tarihinde)"</string>
+    <string name="weekly">"Haftada bir (her <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Ayda bir (her <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly_on_day">"Ayda bir (<xliff:g id="DAY_OF_MONTH">%s</xliff:g>. günde)"</string>
+    <string name="yearly">"Yılda bir (<xliff:g id="DATES">%s</xliff:g> tarihinde)"</string>
     <string name="custom">"Özel... (telefonda özelleştirilemiyor)"</string>
     <string name="modify_event">"Yalnızca bu etkinliği değiştir."</string>
     <string name="modify_all">"Serideki tüm etkinlikleri değiştir."</string>
@@ -113,8 +113,8 @@
     <string name="preferences_title">"Ayarlar"</string>
     <string name="preferences_general_title">"Takvim görünümü ayarı"</string>
     <string name="preferences_alerts_title">"Hatırlatıcı ayarları"</string>
-    <string name="preferences_hide_declined_title">"Reddedilmiş etkinlikleri gizle"</string>
-    <string name="preferences_alerts_type_title">"Uyarıları ve bildirimleri ayarla"</string>
+    <string name="preferences_hide_declined_title">"Reddedilmiş etkin. gizle"</string>
+    <string name="preferences_alerts_type_title">"Uyarı ve bildirimleri ayarla"</string>
     <string name="preferences_alerts_type_dialog">"Uyarılar ve bildirimler"</string>
     <string name="preferences_alerts_vibrate_title">"Titret"</string>
     <string name="preferences_alerts_ringtone_title">"Zil sesini seç"</string>
