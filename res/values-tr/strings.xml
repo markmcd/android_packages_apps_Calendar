@@ -94,7 +94,7 @@
     <string name="save_label">"Kaydet"</string>
     <string name="discard_label">"Değişiklikleri sil"</string>
     <string name="import_label">"İçe aktar"</string>
-    <string name="snooze_all_label">"Tümünü duraklat"</string>
+    <string name="snooze_all_label">"Tümünü ertele"</string>
     <string name="dismiss_all_label">"Tümünü kapat"</string>
     <string name="does_not_repeat">"Bir seferlik etkinlik"</string>
     <string name="daily">"Günlük"</string>

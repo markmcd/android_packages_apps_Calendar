@@ -99,7 +99,7 @@
     <string name="does_not_repeat">"一次性活动"</string>
     <string name="daily">"每天"</string>
     <string name="every_weekday">"每个工作日（周一至周五）"</string>
-    <string name="weekly">"每周（每个<xliff:g id="DAYS_OF_WEEK">%s</xliff:g>）"</string>
+    <string name="weekly">"每周（每周的<xliff:g id="DAYS_OF_WEEK">%s</xliff:g>）"</string>
     <string name="monthly_on_day_count">"每月（每月的<xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g><xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>）"</string>
     <string name="monthly_on_day">"每月（第 <xliff:g id="DAY_OF_MONTH">%s</xliff:g> 日）"</string>
     <string name="yearly">"每年（<xliff:g id="DATES">%s</xliff:g>）"</string>

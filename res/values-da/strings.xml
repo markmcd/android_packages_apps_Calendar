@@ -113,8 +113,8 @@
     <string name="preferences_title">"Indstillinger"</string>
     <string name="preferences_general_title">"Indstillinger for kalendervisning"</string>
     <string name="preferences_alerts_title">"Påmindelsesindstillinger"</string>
-    <string name="preferences_hide_declined_title">"Skjul afviste begivenheder"</string>
-    <string name="preferences_alerts_type_title">"Indstil underretninger og meddelelser"</string>
+    <string name="preferences_hide_declined_title">"Skjul afviste begivenhed."</string>
+    <string name="preferences_alerts_type_title">"Inds. underret. og medd."</string>
     <string name="preferences_alerts_type_dialog">"Underretninger og meddelelser"</string>
     <string name="preferences_alerts_vibrate_title">"Vibrer"</string>
     <string name="preferences_alerts_ringtone_title">"Vælg ringetone"</string>

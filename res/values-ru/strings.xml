@@ -88,7 +88,7 @@
     <string name="view_event_response_label">"Принять приглашение?"</string>
     <string name="agenda_today">"Сегодня"</string>
     <string name="num_events">"Кол-во мероприятий"</string>
-    <string name="edit_event_label">"Изменение мероприятия"</string>
+    <string name="edit_event_label">"Изменить мероприятие"</string>
     <string name="delete_label">"Удалить"</string>
     <string name="delete_event_label">"Удалить мероприятие"</string>
     <string name="save_label">"Сохранить"</string>
@@ -97,7 +97,7 @@
     <string name="snooze_all_label">"Отложить все"</string>
     <string name="dismiss_all_label">"Отключить все"</string>
     <string name="does_not_repeat">"Однократное мероприятие"</string>
-    <string name="daily">"ежедневно"</string>
+    <string name="daily">"Ежедневно"</string>
     <string name="every_weekday">"Каждый будний день (пн–пт)"</string>
     <string name="weekly">"Еженедельно (кажд. <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
     <string name="monthly_on_day_count">"Ежемесячно (кажд. <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
@@ -114,11 +114,11 @@
     <string name="preferences_general_title">"Вид календаря"</string>
     <string name="preferences_alerts_title">"Настройки напоминаний"</string>
     <string name="preferences_hide_declined_title">"Скрыть отклоненные мероприятия"</string>
-    <string name="preferences_alerts_type_title">"Установить оповещения и уведомления"</string>
+    <string name="preferences_alerts_type_title">"Выбрать уведомление или оповещение"</string>
     <string name="preferences_alerts_type_dialog">"Оповещения и уведомления"</string>
     <string name="preferences_alerts_vibrate_title">"Вибрация"</string>
-    <string name="preferences_alerts_ringtone_title">"Выбор мелодии"</string>
-    <string name="preferences_default_reminder_title">"Установить напоминание по умолчанию"</string>
+    <string name="preferences_alerts_ringtone_title">"Выбрать мелодию"</string>
+    <string name="preferences_default_reminder_title">"Время напоминания по умолчанию"</string>
     <string name="preferences_default_reminder_dialog">"Время напоминания по умолчанию"</string>
     <string name="preferences_default_reminder_default">"10"</string>
 </resources>

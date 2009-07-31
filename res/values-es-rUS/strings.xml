@@ -98,7 +98,7 @@
     <string name="dismiss_all_label">"Rechazar todos"</string>
     <string name="does_not_repeat">"Evento único"</string>
     <string name="daily">"Diariamente"</string>
-    <string name="every_weekday">"Los días de semana (lunes a viernes)"</string>
+    <string name="every_weekday">"Los días de semana (lun. a vie.)"</string>
     <string name="weekly">"Semanalmente (cada <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
     <string name="monthly_on_day_count">"Mensual (cada <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
     <string name="monthly_on_day">"Mensual (el día <xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
@@ -113,12 +113,12 @@
     <string name="preferences_title">"Configuración"</string>
     <string name="preferences_general_title">"Configuración de vista de calendario"</string>
     <string name="preferences_alerts_title">"Configuración de recordatorio"</string>
-    <string name="preferences_hide_declined_title">"Ocultar eventos rechazados"</string>
-    <string name="preferences_alerts_type_title">"Configurar alertas y notificaciones"</string>
+    <string name="preferences_hide_declined_title">"Ocultar eventos rechaz."</string>
+    <string name="preferences_alerts_type_title">"Configurar alertas y notific."</string>
     <string name="preferences_alerts_type_dialog">"Alertas y notificaciones"</string>
     <string name="preferences_alerts_vibrate_title">"Vibrar"</string>
     <string name="preferences_alerts_ringtone_title">"Seleccionar tono de llamada"</string>
-    <string name="preferences_default_reminder_title">"Configurar recordatorio predeterminado"</string>
+    <string name="preferences_default_reminder_title">"Config. recordatorio predet."</string>
     <string name="preferences_default_reminder_dialog">"Hora predeterminada de recordatorio"</string>
     <string name="preferences_default_reminder_default">"10"</string>
 </resources>

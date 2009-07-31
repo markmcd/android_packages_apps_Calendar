@@ -100,7 +100,7 @@
     <string name="daily">"Dagligen"</string>
     <string name="every_weekday">"Varje vardag (mån-fre)"</string>
     <string name="weekly">"Varje vecka (varje <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
-    <string name="monthly_on_day_count">"Varje månad (den <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Varje månad (den <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>en)"</string>
     <string name="monthly_on_day">"Varje månad (den <xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
     <string name="yearly">"Varje år (den <xliff:g id="DATES">%s</xliff:g>)"</string>
     <string name="custom">"Anpassad… (går ej att anpassa i telefonen)"</string>

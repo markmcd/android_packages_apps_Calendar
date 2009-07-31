@@ -99,7 +99,7 @@
     <string name="does_not_repeat">"Συμβάν που δεν επαναλαμβάνεται"</string>
     <string name="daily">"Καθημερινά"</string>
     <string name="every_weekday">"Καθημερινά (Δευ-Παρ)"</string>
-    <string name="weekly">"Κάθε βδομάδα (κάθε <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="weekly">"Κάθε εβδομάδα (κάθε <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
     <string name="monthly_on_day_count">"Κάθε μήνα (κάθε <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
     <string name="monthly_on_day">"Κάθε μήνα (<xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
     <string name="yearly">"Κάθε χρόνο (<xliff:g id="DATES">%s</xliff:g>)"</string>
