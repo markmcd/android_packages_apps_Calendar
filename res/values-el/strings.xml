@@ -16,7 +16,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5452708708398908131">"Ημερολόγιο"</string>
-    <string name="calendar_plug" msgid="8148614847911924208"><font fgcolor="#ffffffff">"Καλώς ήρθατε στο Ημερολόγιο Google!"</font>" "\n"Μια πρόταση της Google για τη διαχείριση του προγράμματός σας βασισμένη στην ιδέα ότι ο προγραμματισμός συμβάντων μπορεί να είναι πιο διαισθητικός, πιο αποδοτικός και πιο προσιτός."</string>
+    <string name="calendar_plug" msgid="8148614847911924208"><font fgcolor="#ffffffff">"Καλώς ορίσατε στο Ημερολόγιο Google!"</font>" "\n"Μια πρόταση της Google για τη διαχείριση του προγράμματός σας βασισμένη στην ιδέα ότι ο προγραμματισμός συμβάντων μπορεί να γίνει πιο διαισθητικός, πιο αποδοτικός και πιο εύχρηστος."</string>
     <string name="what_label" msgid="1933578391985810049">"Τι"</string>
     <string name="when_label" msgid="894636567327261599">"Πότε"</string>
     <string name="where_label" msgid="3472482206065595118">"Που"</string>
@@ -91,10 +91,8 @@
     <string name="edit_event_label" msgid="2900418236819088363">"Επεξεργασία συμβάντος"</string>
     <string name="delete_label" msgid="874742811918030739">"Διαγραφή"</string>
     <string name="delete_event_label" msgid="3738436215987360463">"Διαγραφή συμβάντος"</string>
-    <!-- no translation found for save_label (2133599104834432589) -->
-    <skip />
-    <!-- no translation found for discard_label (4510607554910139220) -->
-    <skip />
+    <string name="save_label" msgid="2133599104834432589">"Τέλος"</string>
+    <string name="discard_label" msgid="4510607554910139220">"Επαναφορά"</string>
     <string name="import_label" msgid="6993796574741477222">"Εισαγωγή"</string>
     <string name="snooze_all_label" msgid="4994488813124409077">"Αναβολή όλων"</string>
     <string name="dismiss_all_label" msgid="1834400025868091301">"Παράβλεψη όλων"</string>
